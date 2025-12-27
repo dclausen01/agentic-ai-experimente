@@ -2,10 +2,10 @@
   "name": "agentivai_research",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "test1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node src/main.ts"
+    "start": "start.sh"
   },
   "keywords": [],
   "author": "",
